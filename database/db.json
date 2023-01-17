@@ -1,0 +1,80 @@
+{
+  "todos": [
+    {
+      "limitDate": "2023-01-30T23:00:00.000Z",
+      "status": "TODO",
+      "groupId": [],
+      "label": "test 1",
+      "description": "test 1",
+      "id": 1
+    },
+    {
+      "limitDate": "2023-01-30T23:00:00.000Z",
+      "status": "TODO",
+      "groupId": [],
+      "label": "test 2",
+      "description": "2",
+      "id": 2
+    }
+  ],
+  "groups": [
+    {
+      "label": "test",
+      "todos": [
+        1
+      ],
+      "id": 5
+    },
+    {
+      "label": "test yann",
+      "todos": [
+        1
+      ],
+      "id": 7
+    },
+    {
+      "label": "test validation",
+      "todos": [
+        1
+      ],
+      "id": 9
+    },
+    {
+      "label": "test1",
+      "todos": [
+        1,
+        2
+      ],
+      "id": 10
+    },
+    {
+      "label": null,
+      "todos": null,
+      "id": 11
+    },
+    {
+      "label": "COUCOU",
+      "todos": [
+        1
+      ],
+      "id": 12
+    },
+    {
+      "label": null,
+      "todos": null,
+      "id": 13
+    },
+    {
+      "label": "SALUT",
+      "todos": [
+        1
+      ],
+      "id": 14
+    },
+    {
+      "label": null,
+      "todos": null,
+      "id": 15
+    }
+  ]
+}

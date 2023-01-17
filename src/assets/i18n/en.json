@@ -1,0 +1,23 @@
+{
+  "HEADER": {
+    "LANGUAGES": {
+      "EN": "English",
+      "FR": "Francais",
+      "BZH": "Brezhoneg"
+    },
+    "BUTTONS": {
+      "TODO": {
+        "LIST": "List all todos",
+        "ADD": "Add a todo"
+      }
+    }
+  },
+  "TODOS": {
+    "LIST": {
+      "BUTTONS": {
+        "EDIT": "Edit",
+        "DELETE": "Delete"
+      }
+    }
+  }
+}

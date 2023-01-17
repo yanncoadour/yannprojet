@@ -1,0 +1,18 @@
+{
+  "HEADER": {
+    "BUTTONS": {
+      "TODO": {
+        "LIST": "Liste des taches",
+        "ADD": "Ajouter une tache"
+      }
+    }
+  },
+  "TODOS": {
+    "LIST": {
+      "BUTTONS": {
+        "EDIT": "Modifier",
+        "DELETE": "Supprimer"
+      }
+    }
+  }
+}
